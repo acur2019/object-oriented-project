@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Object-oriented-project
+#Outlook
 
 
 This repository will contain a simple project replicating Outlook, using object-oriented programming.
