@@ -9,4 +9,4 @@ This repository will contain a simple project replicating Outlook, using object-
 
 Dirígete a la carpeta [Workshop](./Workshops) para acceder al contenido correspondiente.
 
-- [workshop 1](.Workshops/whorkshop-1/WORKSHOP-1.pdf)
+- [workshop 1](./Workshops/workshop-1/WORKSHOP-1.pdf)
