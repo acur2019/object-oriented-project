@@ -6,3 +6,4 @@ Este repositorio contiene material y ejercicios organizados por carpetas. Navega
 ## Workshop
 
 Dirígete a la carpeta [Workshop](./Workshops) para acceder al contenido correspondiente.
+- [workshop 1](.Workshops/whorkshop-1/workshop-1.pdf)
