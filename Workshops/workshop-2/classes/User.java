@@ -40,7 +40,7 @@ public class User {
             return false;
         }
     }
-    public String consult() {
+    public String searchUsers() {
         /*
         * this method should show the information of all the users in the system, their name an their username
         * 
@@ -76,6 +76,15 @@ public class User {
         * @return a confirmation of the message sent
         */
         //this method should validate if the user is logged in before sending the message, and take the message from the interface and send it to the database in asociation with a chat
+        return true;
+    }
+    public boolean readMessage() {
+        /*
+        * This method will read the content of the messages the user has received.
+        * 
+        * @return the content of the message
+        */
+        //this method should validate if the user is logged in before reading the message, and take the message from the interface and send it to the database in asociation with a chat
         return true;
     }
     public boolean logout() {
