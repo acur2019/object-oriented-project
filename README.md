@@ -28,7 +28,7 @@ Go to the folder [Workshop](./Workshops) to access the project documentation, di
 
 - [Workshop 1](./Workshops/workshop-1/WORKSHOP-1.pdf)
 - [Workshop 2](./Workshops/workshop-2/WORKSHOP-2.pdf) 
-- [Workshop 3](./Workshops/workshop-3/WORKSHOP - 3.pdf)
+- [Workshop 3](./Workshops/workshop-3/WORKSHOP-3.pdf)
 - [Workshop 4](./Workshops/workshop-4) (cooming soon)
   
 ## Contact
