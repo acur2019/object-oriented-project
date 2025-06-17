@@ -27,8 +27,8 @@ This project is a messaging system that allows users to send and receive message
 Go to the folder [Workshop](./Workshops) to access the project documentation, divided into workshops.
 
 - [Workshop 1](./Workshops/workshop-1/WORKSHOP-1.pdf)
-- [Workshop 2](./Workshops/workshop-2) 
-- [Workshop 3](./Workshops/workshop-3)
+- [Workshop 2](./Workshops/workshop-2/WORKSHOP-2.pdf) 
+- [Workshop 3](./Workshops/workshop-3/WORKSHOP - 3.pdf)
 - [Workshop 4](./Workshops/workshop-4) (cooming soon)
   
 ## Contact
